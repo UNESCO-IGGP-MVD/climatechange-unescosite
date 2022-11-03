@@ -1,0 +1,14 @@
+name: climatechange-unescosite-test
+title: climatechange-unescosite-test
+username:
+account: unesco-mvd-iggp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7514617
+bundleId: 6472185
+url: https://unesco-mvd-iggp.shinyapps.io/climatechange-unescosite-test/
+when: 1667496528.99846
+lastSyncTime: 1667496528.99847
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data|scp
